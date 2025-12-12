@@ -1,6 +1,6 @@
 # Day 11: Reactor
 
-![Original Prompt](https://adventofcode.com/2025/day/11)
+[Original Prompt](https://adventofcode.com/2025/day/11)
 
 ## Part 1
 

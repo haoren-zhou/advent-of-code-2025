@@ -1,6 +1,6 @@
 # Day 9: Movie Theater
 
-![Original Prompt](https://adventofcode.com/2025/day/9)
+[Original Prompt](https://adventofcode.com/2025/day/9)
 
 ## Part 1
 
